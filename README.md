@@ -36,13 +36,15 @@
 
 ## 📱 실행 화면 
 
+[📽️👉 풀 시연 영상 보러가기](https://youtu.be/HjFp9eipC_4)
+
 | 온보딩 | 추천 받기 |
 |---|---|
-|<img src="https://github.com/user-attachments/assets/500f6079-8c37-428e-8069-7ab2987bedc9" width="320" />|<img src="https://github.com/user-attachments/assets/15bf8aa5-ed76-4be7-a292-4c64e36a4ab5" width="320"/>|
+|<img src="https://github.com/user-attachments/assets/500f6079-8c37-428e-8069-7ab2987bedc9" width="240" />|<img src="https://github.com/user-attachments/assets/15bf8aa5-ed76-4be7-a292-4c64e36a4ab5" width="240"/>|
 
 | 라이브러리 | 둘러보기 |
 |---|---|
-|<img src="https://github.com/user-attachments/assets/3350eff3-9bf9-49e6-be80-18b31127aa21" width="320"/>|<img src="https://github.com/user-attachments/assets/37769da1-5a81-4baf-82f8-afcb2b589fe0" width="320"/>|
+|<img src="https://github.com/user-attachments/assets/3350eff3-9bf9-49e6-be80-18b31127aa21" width="240"/>|<img src="https://github.com/user-attachments/assets/37769da1-5a81-4baf-82f8-afcb2b589fe0" width="240"/>|
 
 <br/>
 
